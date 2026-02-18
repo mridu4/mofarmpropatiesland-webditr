@@ -7,7 +7,7 @@ export const metadata = {
     icon: '/favicon.svg',
   },
   verification: {
-    google: '799038bbe66e60e6',
+    google: 'HBSZs6lSiDPjSc4',
   },
 }
 
