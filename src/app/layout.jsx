@@ -6,6 +6,9 @@ export const metadata = {
   icons: {
     icon: '/favicon.svg',
   },
+  verification: {
+    google: '799038bbe66e60e6',
+  },
 }
 
 export default function RootLayout({ children }) {
